@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "http://YOUR_BACKEND_IP:YOUR_BACKEND_PORT/api/:path*"
+      "destination": "http://212.227.7.153:10266/api/:path*"
     },
     {
       "source": "/(.*)",
